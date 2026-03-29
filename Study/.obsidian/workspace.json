@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260326.md",
+                "file": "20260327.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260326"
+              "title": "20260327"
             }
           }
         ]
@@ -178,23 +178,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7d51d4353683c6c4",
   "lastOpenFiles": [
+    "製圖實作.md",
+    "20260327.md",
+    "20260319.md",
+    "20260310.md",
+    "20260316.md",
+    "20260326.md",
+    "20260315.md",
+    "20260321.md",
+    "20260324.md",
+    "assets/20260327/file-20260330040045180.png",
+    "assets/20260327",
+    "assets",
+    "Screenshot 2026-03-30 at 4.00.32 AM.png",
     "20260323.md",
     "20260320.md",
-    "20260315.md",
     "20260317.md",
-    "20260321.md",
-    "20260327.md",
-    "20260326.md",
     "20260325.md",
-    "20260324.md",
     "控二.md",
     "20260318.md",
-    "20260319.md",
     "20260306.md",
     "振動.md",
     "20260313.md",
@@ -206,9 +214,6 @@
     "20260305.md",
     "20260307.md",
     "20260309.md",
-    "20260310.md",
-    "20260311.md",
-    "20260312.md",
     "Untitled 1.base",
     "Untitled.base"
   ]
