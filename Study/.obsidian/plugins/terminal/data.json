@@ -12,7 +12,7 @@
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
-  "pinNewInstance": true,
+  "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
     "darwinExternalDefault": {
