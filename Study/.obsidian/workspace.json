@@ -11,10 +11,14 @@
             "id": "49f0ccbdcefa2fe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260404.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20260404"
             }
           }
         ]
@@ -189,8 +193,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0ccaaa8f106f8578",
+  "active": "49f0ccbdcefa2fe2",
   "lastOpenFiles": [
+    "20260404.md",
     "assets/20260401/file-20260402205447690.png",
     "assets/20260401",
     "assets",
