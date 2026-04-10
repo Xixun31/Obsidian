@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260409.md",
+                "file": "20260410.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260409"
+              "title": "20260410"
             }
           }
         ]
@@ -195,8 +195,12 @@
   },
   "active": "49f0ccbdcefa2fe2",
   "lastOpenFiles": [
-    "20260408.md",
+    "assets/20260410/file-20260410133215868.png",
+    "assets/20260410/file-20260410133124074.png",
+    "assets/20260410",
     "20260409.md",
+    "20260410.md",
+    "20260408.md",
     "20260407.md",
     "assets/20260407/file-20260407223251927.png",
     "assets/20260407/file-20260407223222326.png",
@@ -226,8 +230,6 @@
     "subjects",
     "20260305.md",
     "20260306.md",
-    "20260310.md",
-    "20260309.md",
     "Untitled.canvas",
     "Untitled.base",
     "assets/20260327/file-20260330040045180.png",
