@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260420.md",
+                "file": "20260421.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260420"
+              "title": "20260421"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "eafd7d3c7e41ad33",
   "lastOpenFiles": [
-    "20260416.md",
     "20260420.md",
+    "20260421.md",
+    "20260416.md",
     "assets/20260416/file-20260420023001139.png",
     "assets/20260416",
     "20260415.md",
@@ -249,7 +250,6 @@
     "20260326.md",
     "製圖實作.md",
     "熱流二.md",
-    "控二.md",
     "subjects",
     "Untitled.canvas",
     "assets/20260327/file-20260330040045180.png",
