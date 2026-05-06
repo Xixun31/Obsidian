@@ -11,10 +11,14 @@
             "id": "cdbbfe8c6887528e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260506.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20260506"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1541d142b3869afd",
@@ -191,6 +196,7 @@
   },
   "active": "cdbbfe8c6887528e",
   "lastOpenFiles": [
+    "20260506.md",
     "20260505.md",
     "20260428.md",
     "20260425.md",
@@ -230,7 +236,6 @@
     "20260330.md",
     "20260327.md",
     "20260321.md",
-    "20260320.md",
     "subjects",
     "Untitled.canvas",
     "assets/20260327/file-20260330040045180.png",
