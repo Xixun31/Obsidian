@@ -1,12 +1,10 @@
----
-tags:
+---tags:
   - 其它
   - look again
 aliases:
   - look again
 date: 2026-05-27
-type: other
----
+type: other---
 
 # look again
 

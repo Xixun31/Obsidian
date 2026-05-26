@@ -1,12 +1,10 @@
----
-tags:
+---tags:
   - 其它
   - python
 aliases:
   - python
 date: 2026-05-27
-type: other
----
+type: other---
 
 # python
 

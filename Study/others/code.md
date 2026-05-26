@@ -1,12 +1,10 @@
----
-tags:
+---tags:
   - 其它
   - code
 aliases:
   - code
 date: 2026-05-27
-type: other
----
+type: other---
 
 # code
 
