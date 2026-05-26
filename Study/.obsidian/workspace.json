@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mine/我的優勢.md",
+                "file": "mine/我.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的優勢"
+              "title": "我"
             }
           }
         ]
@@ -195,8 +195,11 @@
   },
   "active": "105041ce5f1c32d6",
   "lastOpenFiles": [
-    "mine/興趣與愛好.md",
+    "mine/喜好.md",
+    "mine/我.md",
+    "mine/優勢.md",
     "mine/我的優勢.md",
+    "mine/興趣與愛好.md",
     "Daily/2026-03-13.md",
     "Daily/2026-03-25.md",
     "Daily/2026-04-01.md",
@@ -218,9 +221,6 @@
     "backup/others/外骨骼.md",
     "backup/others/不對稱陷阱.md",
     "backup/others/python.md",
-    "backup/others/look again.md",
-    "backup/others/code.md",
-    "backup/Subjects/製圖實作.md",
     "backup/others",
     "backup/Subjects",
     "backup/Daily",
